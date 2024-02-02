@@ -1,4 +1,3 @@
-from PIL import Image
 import os, datetime
 
 def get_date(file_path):
