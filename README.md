@@ -1,5 +1,7 @@
 # Datestamp-Renamer
-Are you tired of dealing with nonsensical filenames for the photos and videos that document your life's moments?
+[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) 
+
+Are you tired of dealing with nonsensical filenames for the photos and videos that document your life's moments? 
 
 Introducing DateStampRenamer - a convenient and lightweight solution crafted to simplify file organization by renaming them based on their modified dates.
 
